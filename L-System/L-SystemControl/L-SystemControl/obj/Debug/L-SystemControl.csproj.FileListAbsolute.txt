@@ -1,0 +1,188 @@
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\L-SystemControl.exe.config
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.AssemblyReference.cache
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L_SystemControl.Properties.Resources.resources
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.GenerateResource.cache
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L_SystemControl.Form1.resources
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L_SystemControl.Plotting.resources
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.CopyComplete
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.exe.licenses
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\L-SystemControl.exe.config
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.AssemblyReference.cache
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L_SystemControl.Form1.resources
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L_SystemControl.Plotting.resources
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L_SystemControl.Properties.Resources.resources
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.GenerateResource.cache
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.exe.licenses
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.csproj.CopyComplete
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula\Desktop\L-SystemControl\L-SystemControl\obj\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\L-SystemControl.exe.config
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.AssemblyReference.cache
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L_SystemControl.Form1.resources
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L_SystemControl.Plotting.resources
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L_SystemControl.Properties.Resources.resources
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.GenerateResource.cache
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.exe.licenses
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.CopyComplete
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula\Desktop\C#Scripts&Examples\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\L-SystemControl.exe.config
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\L-SystemControl.pdb
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.AssemblyReference.cache
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L_SystemControl.Form1.resources
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L_SystemControl.Plotting.resources
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L_SystemControl.Properties.Resources.resources
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.GenerateResource.cache
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.exe.licenses
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.csproj.CopyComplete
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.exe
+C:\Users\alessandro.caula.3BRAIN\OneDrive - 3Brain\Desktop\C#_Various\L-SystemControl_01\L-SystemControl\obj\Debug\L-SystemControl.pdb
