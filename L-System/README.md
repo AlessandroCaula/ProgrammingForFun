@@ -21,7 +21,7 @@ F -> Move forward by line length drawing a line.
 + -> Turn left by turning angle
 - -> Turn right by turning angle
 
-!!!!!!! To launch the program, download the entire L-SystemControl folder. !!!!!!!!!!
+!!!!!!! To launch the program, download the entire L-SystemControl folder. !!!!!!!!!!       
 !!!!!!! The executable is in: L-SystemControl\bin\Debug\L-SystemControl.exe !!!!!!!!!
 
 For more documentation:
